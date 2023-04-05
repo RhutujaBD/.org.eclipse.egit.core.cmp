@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+F:\JAVA\Collage Management\.metadata\.plugins\org.eclipse.jdt.core
+570915288.index
+3020491684.index
+2510609146.index
+159732059.index
+3390179866.index
+3994916960.index
+1236922523.index
+3771863308.index
+1865797976.index
+297705868.index
